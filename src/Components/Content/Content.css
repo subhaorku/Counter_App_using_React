@@ -1,0 +1,21 @@
+.counter-container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(214, 204, 11);
+    background-color: black;
+  }
+  
+  /* Styling for the counter value */
+  .counter-value {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: rgb(214, 204, 11);
+    background-color: black;
+  }
+
+  .counter-container:hover {
+    background-color:lemonchiffon; /* slightly darker yellow */
+    color: white;
+  }
